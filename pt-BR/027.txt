@@ -1,0 +1,1 @@
+Sandshrew&pc16,pc52,pc89,pc125,pc161,pc197,pc233,pc269,pc305,pc341,pc375,pc409,pc443,pc477,pc512,pc546,pc580,pc614,pc648,pc682,pc716,pc750,pc785,pc819,pc853,pc887,pc921,pc955,pc989,pc1023

@@ -1,0 +1,1 @@
+Vulpix&pc10,pc34,pc57,pc81,pc104,pc127,pc151,pc174,pc197,pc221,pc243,pc265,pc287,pc309,pc331,pc353,pc375,pc398,pc420,pc442,pc464,pc486,pc508,pc530,pc552,pc575,pc597,pc619,pc641,pc663

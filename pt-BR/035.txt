@@ -1,0 +1,1 @@
+Clefairy&pc15,pc48,pc80,pc113,pc146,pc179,pc212,pc244,pc277,pc310,pc341,pc372,pc403,pc434,pc465,pc496,pc527,pc558,pc589,pc620,pc651,pc682,pc713,pc744,pc775,pc806,pc837,pc868,pc899,pc930

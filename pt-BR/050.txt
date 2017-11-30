@@ -1,0 +1,1 @@
+Diglett&pc10,pc20,pc34,pc48,pc62,pc76,pc90,pc104,pc118,pc132,pc146,pc159,pc172,pc186,pc199,pc212,pc225,pc239,pc252,pc265,pc278,pc292,pc305,pc318,pc332,pc345,pc358,pc372,pc385,pc398

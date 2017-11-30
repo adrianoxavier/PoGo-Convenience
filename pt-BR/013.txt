@@ -1,0 +1,1 @@
+Weedle&pc10,pc17,pc29,pc41,pc53,pc65,pc77,pc89,pc101,pc113,pc124,pc136,pc147,pc158,pc170,pc181,pc192,pc204,pc215,pc227,pc238,pc249,pc261,pc272,pc283,pc295,pc306,pc317,pc329,pc340

@@ -1,0 +1,1 @@
+Pichu&pc10,pc16,pc28,pc39,pc50,pc62,pc73,pc84,pc96,pc107,pc118,pc129,pc139,pc150,pc161,pc172,pc182,pc193,pc204,pc215,pc225,pc236,pc247,pc258,pc268,pc279,pc290,pc301,pc311,pc322

@@ -1,0 +1,1 @@
+Squirtle&pc11,pc35,pc60,pc84,pc109,pc133,pc157,pc182,pc206,pc231,pc254,pc277,pc300,pc323,pc346,pc369,pc392,pc415,pc439,pc462,pc485,pc508,pc531,pc554,pc577,pc600,pc623,pc646,pc670,pc693

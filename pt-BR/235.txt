@@ -1,0 +1,1 @@
+Smeargle&pc10,pc17,pc29,pc40,pc52,pc64,pc76,pc87,pc99,pc111,pc122,pc133,pc144,pc155,pc167,pc178,pc189,pc200,pc211,pc222,pc233,pc245,pc256,pc267,pc278,pc289,pc300,pc311,pc322,pc334

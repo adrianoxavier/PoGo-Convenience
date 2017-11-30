@@ -1,0 +1,1 @@
+Ekans&pc11,pc34,pc58,pc81,pc105,pc128,pc152,pc175,pc199,pc222,pc244,pc266,pc289,pc311,pc333,pc355,pc378,pc400,pc422,pc444,pc467,pc489,pc511,pc533,pc556,pc578,pc600,pc622,pc645,pc667

@@ -1,0 +1,1 @@
+Magnemite&pc15,pc48,pc80,pc113,pc146,pc178,pc211,pc244,pc277,pc309,pc340,pc371,pc402,pc433,pc464,pc495,pc526,pc557,pc588,pc619,pc650,pc681,pc712,pc743,pc774,pc805,pc836,pc867,pc898,pc929

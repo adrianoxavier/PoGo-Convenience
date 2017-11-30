@@ -1,0 +1,1 @@
+bulbasaur&pc13,pc43,pc73,pc102,pc132,pc162,pc191,pc221,pc250,pc280,pc308,pc336,pc364,pc392,pc420,pc448,pc476,pc504,pc532,pc560,pc588,pc617,pc645,pc673,pc701,pc729,pc757,pc785,pc813,pc841
